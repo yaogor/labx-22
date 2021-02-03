@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labx-22.iml" filepath="$PROJECT_DIR$/labx-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-demo01-consumer/labx-22-scn-eureka-demo01-consumer.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-demo01-consumer/labx-22-scn-eureka-demo01-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-demo02-consumer/labx-22-scn-eureka-demo01-consumer (1).iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-demo02-consumer/labx-22-scn-eureka-demo01-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-demo01-provider/labx-22-scn-eureka-demo01-provider.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-demo01-provider/labx-22-scn-eureka-demo01-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-demo02-consumer/labx-22-scn-eureka-demo02-consumer.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-demo02-consumer/labx-22-scn-eureka-demo02-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-demo02-provider/labx-22-scn-eureka-demo02-provider.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-demo02-provider/labx-22-scn-eureka-demo02-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-server-cluster/labx-22-scn-eureka-server-cluster.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-server-cluster/labx-22-scn-eureka-server-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labx-22-scn-eureka-server-standalone/labx-22-scn-eureka-server-standalone.iml" filepath="$PROJECT_DIR$/labx-22-scn-eureka-server-standalone/labx-22-scn-eureka-server-standalone.iml" />
+    </modules>
+  </component>
+</project>

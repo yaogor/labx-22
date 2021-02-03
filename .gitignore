@@ -1,0 +1,4 @@
+# Project exclude paths
+/labx-22-scn-eureka-demo02-consumer/target/
+/labx-22-scn-eureka-demo02-provider/target/
+/labx-22-scn-eureka-server-cluster/target/

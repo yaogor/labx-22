@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="labx-22-scn-eureka-server-cluster" />
+        <module name="labx-22-scn-eureka-demo02-consumer" />
+        <module name="labx-22-scn-eureka-demo01-consumer" />
+        <module name="labx-22-scn-eureka-demo01-consumer (1)" />
+        <module name="labx-22-scn-eureka-server-standalone" />
+        <module name="labx-22-scn-eureka-demo02-provider" />
+        <module name="labx-22-scn-eureka-demo01-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="labx-22" target="1.5" />
+      <module name="labx-22-scn-eureka-demo01-consumer" target="1.5" />
+      <module name="labx-22-scn-eureka-demo01-consumer (1)" target="1.5" />
+      <module name="labx-22-scn-eureka-demo01-provider" target="1.5" />
+      <module name="labx-22-scn-eureka-demo02-consumer" target="1.5" />
+      <module name="labx-22-scn-eureka-demo02-provider" target="1.5" />
+      <module name="labx-22-scn-eureka-server-cluster" target="1.5" />
+      <module name="labx-22-scn-eureka-server-standalone" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

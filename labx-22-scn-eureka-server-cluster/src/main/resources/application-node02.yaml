@@ -1,0 +1,16 @@
+server:
+  port: 28761
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  instance:
+    hostname: eureka-node02
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka-node01:18761/eureka/ #置为排除自己之外的所有其它 Eureka-Server 节点的地址
+
